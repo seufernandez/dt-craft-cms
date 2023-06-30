@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: pt-BR
+name: daytwo-cms
+primary: true
+siteGroup: bef61e63-7c72-4c11-ad47-36d907a857f2 # daytwo-cms
+sortOrder: 1

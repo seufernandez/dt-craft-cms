@@ -1,0 +1,46 @@
+field: cafd4b32-060e-4878-9728-5acdd0009f2f # Modules
+fieldLayouts:
+  84accce2-7840-4fdf-aa34-a9c45bddae8c:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 39babff7-08ea-495e-aca4-b353c7a4ea05 # Module Text
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9a0aa441-196e-4c80-a6cc-d63af9ffd31f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: c01675f8-f084-41aa-989d-3e40090d57a6
+        userCondition: null
+fields:
+  39babff7-08ea-495e-aca4-b353c7a4ea05: # Module Text
+    columnSuffix: grckmgsx
+    contentColumnType: text
+    fieldGroup: null
+    handle: moduleText
+    instructions: null
+    name: 'Module Text'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: true
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: moduleText
+name: 'Module Text'
+sortOrder: 1

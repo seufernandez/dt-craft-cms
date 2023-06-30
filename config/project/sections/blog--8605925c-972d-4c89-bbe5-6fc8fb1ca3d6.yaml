@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: blog
+name: blog
+propagationMethod: all
+siteSettings:
+  2728f110-a550-482b-8427-7fae40ea00cd: # daytwo-cms
+    enabledByDefault: true
+    hasUrls: true
+    template: blog/_entry
+    uriFormat: 'blog/{slug}'
+type: channel

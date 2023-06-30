@@ -1,0 +1,63 @@
+field: cafd4b32-060e-4878-9728-5acdd0009f2f # Modules
+fieldLayouts:
+  b98f4938-0be4-4cdb-b2a9-0fb6691e3aa6:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: cefd0c03-4f57-4381-b83d-32e9694bea28 # Module Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 679e2ca1-6e3c-420b-9f21-0d23426af68f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e6a02bb5-e80d-4080-b242-0d78e0bd379a
+        userCondition: null
+fields:
+  cefd0c03-4f57-4381-b83d-32e9694bea28: # Module Image
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: moduleImage
+    instructions: null
+    name: 'Module Image'
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      allowSubfolders: false
+      allowUploads: true
+      allowedKinds: null
+      branchLimit: null
+      defaultUploadLocationSource: null
+      defaultUploadLocationSubpath: null
+      localizeRelations: false
+      maintainHierarchy: false
+      maxRelations: null
+      minRelations: null
+      previewMode: full
+      restrictFiles: false
+      restrictLocation: false
+      restrictedDefaultUploadSubpath: null
+      restrictedLocationSource: null
+      restrictedLocationSubpath: null
+      selectionLabel: null
+      showSiteMenu: false
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+handle: moduleImage
+name: 'Module Image'
+sortOrder: 3

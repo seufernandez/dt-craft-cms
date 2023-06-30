@@ -1,0 +1,36 @@
+dateModified: 1688096187
+email:
+  fromEmail: '  seufernandezdev@gmail.com'
+  fromName: daytwo-cms
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    01a3ba97-ddbd-47a6-8f93-9d1b26ec590e: 'Module Image' # Module Image
+    3ce739ff-83c2-4dc0-8704-57139397dc1e: 'Module Video' # Module Video
+    4fde1f70-c0e0-414b-86fc-f9f26212bca0: 'Module Text' # Module Text
+    10fbdab3-5f7b-4f92-93e3-9507ecda9cb8: 'Simple Blog Post' # Simple Blog Post
+    39babff7-08ea-495e-aca4-b353c7a4ea05: 'Module Text' # Module Text
+    75e570ae-39d1-48ee-bf27-e52680e16900: 'Module Video' # Module Video
+    2302c0f2-bc90-45f5-93da-eeb9cf569981: Common # Common
+    2728f110-a550-482b-8427-7fae40ea00cd: daytwo-cms # daytwo-cms
+    8605925c-972d-4c89-bbe5-6fc8fb1ca3d6: blog # blog
+    bef61e63-7c72-4c11-ad47-36d907a857f2: daytwo-cms # daytwo-cms
+    cafd4b32-060e-4878-9728-5acdd0009f2f: Modules # Modules
+    cefd0c03-4f57-4381-b83d-32e9694bea28: 'Module Image' # Module Image
+plugins:
+  element-api:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: daytwo-cms
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
